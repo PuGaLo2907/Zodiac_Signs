@@ -1,4 +1,4 @@
-#Zodiac Signs
+# zodiac signs
 
 Front of the site about zodiac signs and forecasts!
 
